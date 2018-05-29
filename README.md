@@ -9,7 +9,7 @@ The repository contains all the scripts and results of the various algorithms on
 
 Some of the work is mentioned below:
 
-__- Movie Recommendor System
+- __Movie Recommendor System
 - Visualiziation using Plot.ly to make Choropleth Data Maps
 - Decision Trees and Random Forest comparison at a top level
 - Exploration of Principal Component Analysis on Breast Cancer Dataset
