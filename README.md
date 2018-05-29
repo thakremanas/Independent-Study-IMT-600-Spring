@@ -7,17 +7,17 @@ Machine Learning and Data Analysis scripts for IMT 600 course. The repository in
 
 The repository contains all the scripts and results of the various algorithms on different kinds of datasets.
 
-Some of the work is mentioned below:
+#### Some of the work is mentioned below:
 
-- __Movie Recommendor System
-- Visualiziation using Plot.ly to make Choropleth Data Maps
-- Decision Trees and Random Forest comparison at a top level
-- Exploration of Principal Component Analysis on Breast Cancer Dataset
-- Text Based modelling on SMS dataset to detect spam__
+- __Movie Recommendor System__
+- __Visualiziation using Plot.ly to make Choropleth Data Maps__
+- __Decision Trees and Random Forest comparison at a top level__
+- __Exploration of Principal Component Analysis on Breast Cancer Dataset__
+- __Text Based modelling on SMS dataset to detect spam__
 
-Some other accomplishment: 
+#### Some other accomplishment: 
 
-- I formalized my github repository and included my important projects
-- I used the learning from by Big Data course to setup a portfolio webpage on AWS. [Click here to see](http://bit.do/manas-thakre)
+- I formalized my [__github__](https://github.com/thakremanas) repository and included my important projects
+- I used the learning from by Big Data course to setup a __portfolio__ webpage on AWS. [Click here to see](http://bit.do/manas-thakre)
 
 ____________________________________________________________________________________
