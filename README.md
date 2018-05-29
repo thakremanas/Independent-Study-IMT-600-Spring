@@ -18,6 +18,6 @@ The repository contains all the scripts and results of the various algorithms on
 #### Some other accomplishment: 
 
 - I formalized my [__github__](https://github.com/thakremanas) repository and included my important projects
-- I used the learning from by Big Data course to setup a [__portfolio__](http://bit.do/manas-thakre) webpage on AWS.
+- I used the learning from by Big Data course to setup a [__portfolio__](http://bit.do/manas-thakre) webpage on AWS
 
 ____________________________________________________________________________________
