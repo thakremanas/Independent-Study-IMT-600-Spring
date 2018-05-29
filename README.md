@@ -9,11 +9,11 @@ The repository contains all the scripts and results of the various algorithms on
 
 #### Some of the work is mentioned below:
 
-- __Movie Recommendor System__
-- __Visualiziation using Plot.ly to make Choropleth Data Maps__
-- __Decision Trees and Random Forest comparison at a top level__
-- __Exploration of Principal Component Analysis on Breast Cancer Dataset__
-- __Text Based modelling on SMS dataset to detect spam__
+- [__Movie Recommendor System__](https://github.com/thakremanas/Independent-Study-IMT-600-Spring/blob/master/IMT%20600-Movie%20Recommender%20System_Manas/Recommender%20Systems%20with%20Python.ipynb)
+- [__Visualiziation using Plot.ly to make Choropleth Data Maps__](https://github.com/thakremanas/Independent-Study-IMT-600-Spring/tree/master/IMT%20600-Visualizing%20Data%20on%20Maps_Manas)
+- [__Decision Trees and Random Forest comparison at a top level__](https://github.com/thakremanas/Independent-Study-IMT-600-Spring/blob/master/IMT%20600-Decision%20Trees%20and%20Random%20Forest%20Project_Manas.ipynb)
+- [__Exploration of Principal Component Analysis on Breast Cancer Dataset__](Independent-Study-IMT-600-Spring/IMT 600- Exploring Principal Component Analysis_Manas.ipynb)
+- [__Text Based modelling on SMS dataset to detect spam__](Independent-Study-IMT-600-Spring/IMT 600-Text Based Modelling-NLP _ Manas .ipynb)
 
 #### Some other accomplishment: 
 
