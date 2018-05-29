@@ -15,7 +15,7 @@ The repository contains all the scripts and results of the various algorithms on
 - [__Exploration of Principal Component Analysis on Breast Cancer Dataset__](https://github.com/thakremanas/Independent-Study-IMT-600-Spring/blob/master/IMT%20600-%20Exploring%20Principal%20Component%20Analysis_Manas.ipynb)
 - [__Text Based modelling on SMS dataset to detect spam__](https://github.com/thakremanas/Independent-Study-IMT-600-Spring/blob/master/IMT%20600-Text%20Based%20Modelling-NLP%20_%20Manas%20.ipynb)
 
-#### Some other accomplishment: 
+#### Some other accomplishments: 
 
 - I formalized my [__github__](https://github.com/thakremanas) repository and included my important projects
 - I used the learning from by Big Data course to setup a [__portfolio__](http://bit.do/manas-thakre) webpage on AWS
